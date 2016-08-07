@@ -3,6 +3,7 @@
 ### Introduction to deep learning and tools
 ### Introduction to CNN
 1. ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)
+
 ## Week 2
 ### Modern CNN
 1. Going Deeper with Convolutions (GoogleLenet)
@@ -14,6 +15,7 @@
 ### Optimization methods - Momentum, NAG, AdaGrad, AdaDelta, RMSprop, AdaM
 5. ADAM: A Method For Stochastic Optimization
 6. A Practical Guide to Training Restricted Boltzmann Machines (RBM)
+
 ## Week 3
 ### Semantic segmentation methods
 1. Fully Convolutional Networks for Semantic Segmentation
@@ -23,6 +25,7 @@
 ### Weakly supervised methods
 5. Learning Deep Features for Discriminative Localization 
 6. Is object localization for free? – Weakly-supervised learning with convolutional neural networks
+
 ## Week 4
 ### Image detection methods
 1. Rich feature hierarchies for accurate object detection and semantic segmentation
@@ -41,6 +44,7 @@
 ### Deep reinforcement learning
 11. Playing Atari with Deep Reinforcement Learning
 12. Deep Reinforcement Learning with Double Q-learning
+
 ## Week 5
 ### RNN
 1. Generating Sequences With Recurrent Neural Networks
@@ -49,6 +53,7 @@
 ### Image captioning
 3. Show and Tell: A Neural Image Caption Generator
 4. Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
+
 ## Week 6
 ### Residual network and analyses
 1. Deep Residual Learning for Image Recognition
